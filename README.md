@@ -139,6 +139,14 @@ A regra da aula é:
 
 **Pull → editar → testar → commit → push**
 
+## Dados da Equipe
+* **Nome da Dupla:** [ARTHUR SANTANA E ENZO]
+* **Integrante A:** [ENZO REIS ARAUJO]
+* **Integrante B:** [ARTHUR SANTANA RUFINO GONCALVES]
+* **Turma:** [SEXTA-FEIRA]
+* **Classroom:** 50
+* **Data:** [28/08/2026]
+
 ## Divisão de tarefas
 
 ### Integrante A
