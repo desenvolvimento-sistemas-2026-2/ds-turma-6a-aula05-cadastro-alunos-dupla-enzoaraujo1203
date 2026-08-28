@@ -166,9 +166,9 @@ Arquivo principal: `AlunoService.java`
 
 Verificar:
 
-* validação do nome;
-* validação do curso;
-* validação do semestre.
+* validação do nome: foi testado que o nome não pode estar vazio;
+* validação do curso: foi testado que o curso não pode estar vazio;
+* validação do semestre: foi testado que o numero deve ser maior que zero.
 
 ### Dupla
 
