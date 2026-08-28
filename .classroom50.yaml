@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "ds-turma-6a"
+assignment: "aula05-cadastro-alunos-dupla"
+owner:
+  username: "enzoaraujo1203"
+  id: 232127455
+  accepted_at: "2026-08-28T11:54:34Z"
+source:
+  owner: "desenvolvimento-sistemas-2026-2"
+  owner_id: 318238261
+  repo: "aula05-cadastro-alunos-dupla-template"
+  branch: "main"
